@@ -24,7 +24,7 @@ In this section I will keep notes on currently planned features
 - [ ] Characters. Track characters' (and players') personal details. Name, professions, hobbies, back story, treasured memories, character flaws, etc.
 
 #### Game Mechanics
-- [ ] Statistics. Assign and read stats to/from and person. Virtual stats can perform math based on other stats. Control available plot options based on stats.
+- [ ] Statistics. Assign and read stats to/from any person. Virtual stats can perform math based on other stats. Control available plot options based on stats.
 - [ ] Rolling. Implement dice rolling based on stats for certain decision outcomes.
 - [ ] Combat. Implement a combat system that can run a combat encounter using peoples' stats.
 - [ ] Status Effects. Implement temporary effects that tick at specified times in combat or out of combat.
