@@ -8,7 +8,7 @@ special plot events. The players can get separated and play
 through plot lines in smaller groups or alone.
 
 ### Plans
-In this section I will keep note about currently planned features
+In this section I will keep notes on currently planned features
 
 #### Basic Functionality
 - [ ] Single user can connect, choose a name, and read through a story, no choices.
